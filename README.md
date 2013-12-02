@@ -7,3 +7,6 @@ CC-BY-SA https://creativecommons.org/licenses/by-sa/3.0/
 <br>
 Suggestions for footprints
 http://black-electronics.com/blog/open-source-pcb-ruler/
+
+<br>
+This not ready its at pre alpha stage
