@@ -1,7 +1,7 @@
 Open-Source-PCB-Ruler
 =====================
 
-PCB ruler with different foot prints and some tables, can also draw lines.
+PCB ruler with different foot prints ,SMD proto-typing area, tables, various AWG size holes and inches and cm scale.
 <br>
 CC-BY-SA https://creativecommons.org/licenses/by-sa/3.0/
 <br>
