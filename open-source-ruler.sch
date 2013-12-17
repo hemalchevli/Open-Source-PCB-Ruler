@@ -20002,9 +20002,13 @@ Source: 33170285923617ADSP_BF531_mbga.bsdl</description>
 <sheets>
 <sheet>
 <plain>
-<text x="292.1" y="17.78" size="2.1844" layer="94" font="vector">hemal@black-electronics.com</text>
+<text x="292.1" y="25.4" size="2.1844" layer="94" font="vector">hemal@black-electronics.com</text>
 <text x="348.742" y="126.492" size="2.54" layer="91">CC-BY-SA 3.0</text>
-<text x="292.1" y="22.86" size="2.54" layer="94" font="vector">Hemal Chevli</text>
+<text x="292.1" y="30.48" size="2.54" layer="94" font="vector">Hemal Chevli</text>
+<text x="391.16" y="0" size="2.54" layer="91">Reference Designs ARE PROVIDED "AS IS" AND "WITH ALL FAULTS.
+Black Electronics DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED,
+REGARDING PRODUCTS, INCLUDING BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES
+OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE</text>
 </plain>
 <instances>
 <instance part="0201" gate="G$1" x="10.16" y="12.7"/>
@@ -20093,4 +20097,10 @@ Source: 33170285923617ADSP_BF531_mbga.bsdl</description>
 </sheets>
 </schematic>
 </drawing>
+<compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
+</compatibility>
 </eagle>
