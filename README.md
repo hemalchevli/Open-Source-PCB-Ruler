@@ -13,3 +13,5 @@ Suggestions for footprints
 <img src="http://black-electronics.com/blog/wp-content/uploads/2013/11/bottom.png"alt="Bottom" style="width: 600px;">
 <br><br>
 3D views generated from <http://mayhewlabs.com/3dpcb>
+<br>
+The PCB is designed in CadSoft Eagle.
